@@ -43,4 +43,4 @@ Desta forma, o usuário pode seguir o fluxo abaixo para acessar todas as funcion
 11. Passo 11 - Meus Dispositivos é uma opção para saber quais foram os dispositivos adicionados e em qual estado se encontram.
     
 ## Demonstração
-Deixo anexo o link para visualizar o sistema funcionando, clique aqui.
+Deixo anexo o link para visualizar o sistema funcionando, clique aqui https://drive.google.com/file/d/1v94eiuLCoafuFpKK7dp4uEpasbgtOor5/view?usp=sharing.
