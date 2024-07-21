@@ -12,4 +12,4 @@ class DispositivoFactory:
         elif tipo == 'sistema_seguranca':
             return SistemaSeguranca(nome)
         else:
-            raise ValueError(f"Dispositivo desconhecido - {tipo}")
+            raise ValueError(f"Dispositivo {tipo} desconhecido")
